@@ -1,0 +1,2 @@
+# CAGradientLayerBasicDemo
+用CAGradientLayer实现渐变色动画
